@@ -25,3 +25,8 @@
 ```bash
 git clone https://github.com/your-username/color-harmony.git
 cd color-harmony
+```
+
+## Скріншот 
+
+![Скріншот інтерфейсу](screenshot.png)
